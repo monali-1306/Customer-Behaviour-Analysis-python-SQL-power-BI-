@@ -1,4 +1,4 @@
-# Sales Performance Dashboard | Python, SQL & Power BI
+# Customer_Behaviour_Analysis | Python, SQL & Power BI
 
 ## Project Overview
 
